@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{11D9C81E-7332-474E-A6F6-70FA9F35AD89}|Default">
+  <MonoDevelop.Ide.ItemProperties.RestaurantAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestaurantAPI/Controllers/DishController.cs">
+    <Files>
+      <File FileName="RestaurantAPI/Controllers/DishController.cs" Line="8" Column="11" />
+      <File FileName="RestaurantAPI/Controllers/RestaurantController.cs" />
+      <File FileName="RestaurantAPI/Controllers/AccountController.cs" />
+      <File FileName="RestaurantAPI/Models/RegisterUserDto.cs" />
+      <File FileName="RestaurantAPI/Startup.cs" Line="30" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RestaurantAPI" expanded="True">
+            <Node name="RestaurantAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="DishController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
