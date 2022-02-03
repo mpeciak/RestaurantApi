@@ -1,26 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/miroslawpeciak/Projects/RestaurantAPI/RestaurantAPI/RestaurantAPI.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\mpeciak\\RestaurantApi\\RestaurantAPI\\RestaurantAPI.csproj": {}
   },
   "projects": {
-    "/Users/miroslawpeciak/Projects/RestaurantAPI/RestaurantAPI/RestaurantAPI.csproj": {
+    "C:\\Users\\HP\\source\\repos\\mpeciak\\RestaurantApi\\RestaurantAPI\\RestaurantAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/miroslawpeciak/Projects/RestaurantAPI/RestaurantAPI/RestaurantAPI.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\mpeciak\\RestaurantApi\\RestaurantAPI\\RestaurantAPI.csproj",
         "projectName": "RestaurantAPI",
-        "projectPath": "/Users/miroslawpeciak/Projects/RestaurantAPI/RestaurantAPI/RestaurantAPI.csproj",
-        "packagesPath": "/Users/miroslawpeciak/.nuget/packages/",
-        "outputPath": "/Users/miroslawpeciak/Projects/RestaurantAPI/RestaurantAPI/obj/",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\mpeciak\\RestaurantApi\\RestaurantAPI\\RestaurantAPI.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\mpeciak\\RestaurantApi\\RestaurantAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/miroslawpeciak/.config/NuGet/NuGet.Config"
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,6 +47,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[11.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.6, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -84,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

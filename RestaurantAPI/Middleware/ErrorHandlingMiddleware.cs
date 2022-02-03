@@ -7,7 +7,7 @@ namespace RestaurantAPI.Middleware
 {
     public class ErrorHandlingMiddleware:IMiddleware
     {
-        private readonly ILogger<ErrorHandlingMiddleware> _logger
+        private readonly ILogger<ErrorHandlingMiddleware> _logger;
         public ErrorHandlingMiddleware(ILogger<ErrorHandlingMiddleware> logger)
         {
             _logger = logger;
